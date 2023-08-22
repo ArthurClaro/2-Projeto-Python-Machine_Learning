@@ -1,5 +1,6 @@
 # Machine Learning - Ciência de Dados ![Captura de tela 2023-08-22 123752](https://github.com/ArthurClaro/3-Projeto-Python-Machine_Learning/assets/124170421/0b36f1c0-dd01-4b7d-a4d0-2b26809ebe5a)
 
+🎬 Vídeo : https://www.linkedin.com/posts/arthur-claro-dev_previsaeto-airbnb-python-activity-7099811421323952128-4EAl?utm_source=share&utm_medium=member_desktop
 ## Projeto Airbnb Rio - Ferramenta de Previsão de Preço de Imóvel para pessoas comuns 
 No Airbnb, qualquer pessoa que tenha um quarto ou um imóvel de qualquer tipo (apartamento, casa, chalé, pousada, etc.) pode ofertar o seu imóvel para ser alugado por diária.
 
